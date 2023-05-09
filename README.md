@@ -7,6 +7,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [How to play](#how-to-play)
 * [Project Status](#project-status)
 * [Contact](#contact)
 
@@ -16,6 +17,10 @@
 
 ## Technologies Used
 - JavaScript
+
+## How to play
+- Two players required to play the game.
+- Refersh the page, the player who has got big numbers on his dicee against the opponent player's dicee has won the game.
 
 ## Project Status
 Project is complete
